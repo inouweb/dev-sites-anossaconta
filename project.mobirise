@@ -85,7 +85,7 @@
         "main": true,
         "title": "Home",
         "meta_descr": "",
-        "header_custom": "",
+        "header_custom": "<style>\n.cid-sF8I5vehxj .layer {\n    right: 44% !imporatant;\n}\n\n@media (min-width: 992px){\n    .cid-sF8I5vehxj .column-content {\n        width: 45% !imporatant;\n    }\n}\n\nDireita\n.cid-sF8I92u8aT .layer {\n    left: 45% !imporatant;\n}\n@media (min-width: 992px){\n    .cid-sF8I92u8aT .column-content {\n        width: 45% !imporatant;\n    }\n}\n</style>",
         "footer_custom": "",
         "html_before": ""
       },
