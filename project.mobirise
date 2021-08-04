@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "A Nossa Conta",
-    "currentPage": "index.html",
+    "currentPage": "produto.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -85,7 +85,7 @@
         "main": true,
         "title": "Home",
         "meta_descr": "",
-        "header_custom": "<style>\n.cid-sF8I5vehxj .layer {\n    right: 44% !imporatant;\n}\n\n@media (min-width: 992px){\n    .cid-sF8I5vehxj .column-content {\n        width: 45% !imporatant;\n    }\n}\n\nDireita\n.cid-sF8I92u8aT .layer {\n    left: 45% !imporatant;\n}\n@media (min-width: 992px){\n    .cid-sF8I92u8aT .column-content {\n        width: 45% !imporatant;\n    }\n}\n</style>",
+        "header_custom": "",
         "footer_custom": "",
         "html_before": ""
       },
@@ -2441,7 +2441,8 @@
     "produto.html": {
       "settings": {
         "title": "Produto",
-        "order": 2
+        "order": 2,
+        "header_custom": "<style>\n.cid-sF8I5vehxj .layer {\n    right: 44% !important;\n}\n\n@media (min-width: 992px){\n    .cid-sF8I5vehxj .column-content {\n        width: 45% !important;\n    }\n}\n\nDireita\n.cid-sF8I92u8aT .layer {\n    left: 45% !important;\n}\n@media (min-width: 992px){\n    .cid-sF8I92u8aT .column-content {\n        width: 45% !important;\n    }\n}\n</style>"
       },
       "components": [
         {
